@@ -6,25 +6,25 @@ Every zip unpacks to the right place: unzip it and copy what's inside to the roo
 
 ## Fonts
 
-Download from the [latest fonts release](https://github.com/eszter007/matcha-reader-assets/releases/tag/fonts-1.0).
+Download from the [latest fonts release](https://github.com/eszter007/matcha-reader-assets/releases/tag/fonts-2.0).
 
 | You read | Zip | Fonts |
 | --- | --- | --- |
-| Japanese | [`japanese-fonts.zip`](https://github.com/eszter007/matcha-reader-assets/releases/download/fonts-1.0/japanese-fonts.zip) | Noto Sans JP, Noto Serif JP |
-| Mandarin, simplified | [`chinese-fonts-simplified.zip`](https://github.com/eszter007/matcha-reader-assets/releases/download/fonts-1.0/chinese-fonts-simplified.zip) | Noto Sans SC, Noto Serif SC |
-| Mandarin, traditional, and Cantonese | [`chinese-fonts-traditional.zip`](https://github.com/eszter007/matcha-reader-assets/releases/download/fonts-1.0/chinese-fonts-traditional.zip) | Noto Sans TC, Noto Serif TC |
-| Noto Sans as a reading font (pairs with the Chinese Sans fonts) | [`noto-sans-font.zip`](https://github.com/eszter007/matcha-reader-assets/releases/download/fonts-1.0/noto-sans-font.zip) | Noto Sans |
+| Japanese | [`japanese-fonts.zip`](https://github.com/eszter007/matcha-reader-assets/releases/download/fonts-2.0/japanese-fonts.zip) | Noto Sans JP, Noto Serif JP |
+| Mandarin, simplified | [`chinese-fonts-simplified.zip`](https://github.com/eszter007/matcha-reader-assets/releases/download/fonts-2.0/chinese-fonts-simplified.zip) | Noto Sans SC, Noto Serif SC |
+| Mandarin, traditional, and Cantonese | [`chinese-fonts-traditional.zip`](https://github.com/eszter007/matcha-reader-assets/releases/download/fonts-2.0/chinese-fonts-traditional.zip) | Noto Sans TC, Noto Serif TC |
+| Noto Sans as a reading font (pairs with the Chinese Sans fonts) | [`noto-sans-font.zip`](https://github.com/eszter007/matcha-reader-assets/releases/download/fonts-2.0/noto-sans-font.zip) | Noto Sans |
 
 ## Dictionaries
 
-Download from the [latest dictionaries release](https://github.com/eszter007/matcha-reader-assets/releases/tag/dictionaries-1.0).
+Download from the [latest dictionaries release](https://github.com/eszter007/matcha-reader-assets/releases/tag/dictionaries-2.0).
 
 | Language | Zip | Ends up in |
 | --- | --- | --- |
-| Japanese | [`japanese-dictionaries.zip`](https://github.com/eszter007/matcha-reader-assets/releases/download/dictionaries-1.0/japanese-dictionaries.zip) | `dictionaries/jp/` |
-| Mandarin, simplified | [`dictionaries-zh-simplified.zip`](https://github.com/eszter007/matcha-reader-assets/releases/download/dictionaries-1.0/dictionaries-zh-simplified.zip) | `dictionaries/zh/` |
-| Mandarin, traditional | [`dictionaries-zh-traditional.zip`](https://github.com/eszter007/matcha-reader-assets/releases/download/dictionaries-1.0/dictionaries-zh-traditional.zip) | `dictionaries/zh/` |
-| Cantonese | [`dictionaries-yue.zip`](https://github.com/eszter007/matcha-reader-assets/releases/download/dictionaries-1.0/dictionaries-yue.zip) | `dictionaries/yue/` |
+| Japanese | [`japanese-dictionaries.zip`](https://github.com/eszter007/matcha-reader-assets/releases/download/dictionaries-2.0/japanese-dictionaries.zip) | `dictionaries/jp/` |
+| Mandarin, simplified | [`dictionaries-zh-simplified.zip`](https://github.com/eszter007/matcha-reader-assets/releases/download/dictionaries-2.0/dictionaries-zh-simplified.zip) | `dictionaries/zh/` |
+| Mandarin, traditional | [`dictionaries-zh-traditional.zip`](https://github.com/eszter007/matcha-reader-assets/releases/download/dictionaries-2.0/dictionaries-zh-traditional.zip) | `dictionaries/zh/` |
+| Cantonese | [`dictionaries-yue.zip`](https://github.com/eszter007/matcha-reader-assets/releases/download/dictionaries-2.0/dictionaries-yue.zip) | `dictionaries/yue/` |
 
 Install only one of the two Mandarin packs, since both use `dictionaries/zh/`.
 
