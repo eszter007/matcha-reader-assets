@@ -1,6 +1,6 @@
 # Matcha Reader assets
 
-Fonts and dictionaries for [Matcha Reader](https://github.com/eszter007/matcha-reader). They change much less often than the firmware, so they live here and get their own versions. Firmware updates don't need new fonts or dictionaries unless the firmware release notes say so.
+Fonts, dictionaries and language packs for [Matcha Reader](https://github.com/eszter007/matcha-reader). They change much less often than the firmware, so they live here and get their own versions. Firmware updates don't need new fonts or dictionaries unless the firmware release notes say so.
 
 Every zip unpacks to the right place: unzip it and copy what's inside to the root of the SD card.
 
@@ -27,6 +27,10 @@ Download from the [latest dictionaries release](https://github.com/eszter007/mat
 | Cantonese | `dictionaries-yue.zip` | `dictionaries/yue/` |
 
 Install only one of the two Mandarin packs, since both use `dictionaries/zh/`.
+
+## Language packs
+
+Each firmware version has its own `language-packs-<version>` release, e.g. [language-packs-2.0.0-rc-2](https://github.com/eszter007/matcha-reader-assets/releases/tag/language-packs-2.0.0-rc-2). A pack only works with the firmware it was built for, so pick the release that matches the version in Settings. Download the `.cplang` file for your language and copy it to `/.crosspoint/lang/` on the SD card.
 
 ## Licences
 
