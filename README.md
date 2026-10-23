@@ -12,8 +12,8 @@ Download from the [latest fonts release](https://github.com/eszter007/matcha-rea
 | --- | --- | --- |
 | Japanese | `japanese-fonts.zip` | Noto Sans JP, Noto Serif JP |
 | Mandarin, simplified | `chinese-fonts-simplified.zip` | Noto Sans SC, Noto Serif SC |
-| Mandarin, traditional | `chinese-fonts-traditional.zip` | Noto Sans TC, Noto Serif TC |
-| Latin text in Noto Sans | `noto-sans-font.zip` | Noto Sans |
+| Mandarin, traditional, and Cantonese | `chinese-fonts-traditional.zip` | Noto Sans TC, Noto Serif TC |
+| Noto Sans as a reading font (pairs with the Chinese Sans fonts) | `noto-sans-font.zip` | Noto Sans |
 
 ## Dictionaries
 
