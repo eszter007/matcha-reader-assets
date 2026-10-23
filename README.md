@@ -28,6 +28,8 @@ Download from the [latest dictionaries release](https://github.com/eszter007/mat
 
 Install only one of the two Mandarin packs, since both use `dictionaries/zh/`.
 
+Want a different dictionary? [Matcha Reader Tools](https://eszter007.github.io/matcha-reader-tools/) converts dictionary files in your browser, e.g. a newer JMdict or CC-CEDICT, or one for another language. A StarDict dictionary for any other language can go straight onto the card in its own folder, e.g. `dictionaries/fr/larousse/`. See the [dictionary guide](https://github.com/eszter007/matcha-reader/blob/develop/docs/dictionary-setup.md).
+
 ## Language packs
 
 Each firmware version has its own `language-packs-<version>` release, e.g. [language-packs-2.0.0-rc-2](https://github.com/eszter007/matcha-reader-assets/releases/tag/language-packs-2.0.0-rc-2). A pack only works with the firmware it was built for, so pick the release that matches the version in Settings. Download the `.cplang` file for your language and copy it to `/.crosspoint/lang/` on the SD card.
